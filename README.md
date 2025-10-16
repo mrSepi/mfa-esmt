@@ -11,3 +11,6 @@ Given as input a list of 2-dimensional points in the form
 ...
 ```
 returns the coordinates of the Steiner points.
+
+
+![](https://github.com/mrSepi/mfa-esmt/blob/main/example.gif)
